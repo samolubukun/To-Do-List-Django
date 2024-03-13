@@ -9,6 +9,12 @@ This is a simple to-do list web application built using Django framework. It all
 - Delete tasks
 - Responsive design using Bootstrap
 
+## Overview
+
+
+https://github.com/samolubukun/To-Do-List-Django/assets/137217836/4cde1cdf-700a-4144-ab5b-3c0c426dbd78
+
+
 ## Installation
 
 1. Clone the repository:
